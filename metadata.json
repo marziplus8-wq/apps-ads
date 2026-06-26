@@ -1,0 +1,6 @@
+{
+  "name": "Ethio App Hub",
+  "description": "The premium Ethiopian Android app directory for discovering and downloading local apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

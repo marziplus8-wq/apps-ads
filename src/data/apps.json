@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1,
+    "name": "ET Player",
+    "shortDescription": "ET Player is a powerful and easy-to-use video player that lets you play videos from both online links and local files",
+    "description": "ET Player is a powerful and easy-to-use video player that lets you play videos from both online links and local files. With support for a wide range of video formats, ET Player provides a seamless viewing experience. Whether you're streaming your favorite movies or watching videos stored on your device, ET Player offers smooth playback, customizable controls, and an intuitive interface. Enjoy high-quality video playback with features like subtitle support, playlist management, and more, all in one convenient app.",
+    "downloads": 42000000,
+    "icon": "https://play-lh.googleusercontent.com/V2EKFaQq3AjB0cDc5EdAav8KcXJGhHSNEL62XusUWILW5OFPUY426yd9D5Zw20DDxW1YYj_LRq9P-ck3gmuXRA=w480-h960-rw",
+    "images": [
+      "https://images.unsplash.com/photo-1555774698-0b77e0d5fac6?w=400&h=700&fit=crop",
+      "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&h=700&fit=crop",
+      "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=400&h=700&fit=crop"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.etplayer.app",
+    "category": "Finance",
+    "developer": "ET Player Inc.",
+    "updatedAt": "2026-06-15",
+    "rating": 4.6,
+    "size": "28 MB",
+    "timer": 40
+  },
+  {
+    "id": 2,
+    "name": "Ethio Fuel Finder",
+    "shortDescription": "Ethio Fuel Finder – Find Nearby Fuel Stations Across Ethiopia",
+    "description": "Ethio Fuel Finder is a must-have app for Ethiopian drivers, providing real-time information on fuel station locations, fuel types available, current prices, and user reviews. Whether you're in Addis Ababa or traveling across the country, Ethio Fuel Finder helps you find the nearest fuel stations with ease, ensuring you never run out of fuel on your journey.",
+    "downloads": 15000000,
+    "icon": "https://play-lh.googleusercontent.com/H-UqrvhkWejqUiMwAv2KUWwT4WareaqOTe5eL-RYYGKHFyruWnZa1K59uYAsqFpIu41-fKu_HcLXm-FlUDggkw=w480-h960-rw",
+    "images": [
+      "https://images.unsplash.com/photo-1565514020179-026b92b84bb6?w=400&h=700&fit=crop",
+      "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=400&h=700&fit=crop",
+      "https://images.unsplash.com/photo-1526304760382-3591d3840148?w=400&h=700&fit=crop"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ethiofuelfinder.app",
+    "category": "Finance",
+    "developer": "Ethio Fuel Finder Inc.",
+    "updatedAt": "2026-06-18",
+    "rating": 4.5,
+    "size": "34 MB",
+    "timer": 40
+  },
+  {
+    "id": 3,
+    "name": "Image to pdf Converter",
+    "shortDescription": "Convert images to PDF format with ease.",
+    "description": "Image to pdf Converter is a simple and efficient tool that allows you to convert your images into PDF files. Whether you need to share documents or archive important images, this app makes the process quick and hassle-free.",
+    "downloads": 1200000,
+    "icon": "https://play-lh.googleusercontent.com/Qvz4WpzVCKdM9eW6doXntTeEOp6wJX7cLRO1p76kEb5z_0LuynrlTQ8U8dSKIMeCZ92ZoIYqIJcaEvKIF2R0=w480-h960-rw",
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400&h=700&fit=crop",
+      "https://images.unsplash.com/photo-1544256718-3bcf237f3974?w=400&h=700&fit=crop",
+      "https://images.unsplash.com/photo-1551645121-d1034da75057?w=400&h=700&fit=crop"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ethioscanner.app",
+    "category": "Tools",
+    "developer": "Image to pdf Converter Inc.",
+    "updatedAt": "2026-05-30",
+    "rating": 4.7,
+    "size": "21 MB",
+    "timer": 40
+  },
+  {
+    "id": 4,
+    "name": "Ethio App Hub",
+    "shortDescription": "Welcome to Ethio App Hub – Your Ultimate Ethiopian App Store & Directory!",
+    "description": "Discover the best of Ethiopian mobile apps with Ethio App Hub, your one-stop destination for finding, downloading, and exploring a wide range of applications tailored for Ethiopian users. From finance and transportation to education and entertainment, Ethio App Hub offers a curated collection of apps that cater to the unique needs and interests of the Ethiopian community. Whether you're looking for the latest ride-hailing service, a secure mobile wallet, or an educational platform, Ethio App Hub has you covered with user-friendly navigation, detailed app descriptions, and direct links to download from the Google Play Store.",
+    "downloads": 850000,
+    "icon": "https://play-lh.googleusercontent.com/fk8Z2rmTTlHnsXAHVBVvw2dedGG6nhiAzMJjklAL-xREWX0Kg4cuXv81bsVbshx23P-6JEh78C5FwAYlnM9E=w480-h960-rw",
+    "images": [
+      "https://images.unsplash.com/photo-1548345680-f5475ea5df84?w=400&h=700&fit=crop",
+      "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=400&h=700&fit=crop"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ethioapphub.app",
+    "category": "Transport",
+    "developer": "Ethio App Hub Inc.",
+    "updatedAt": "2026-06-10",
+    "rating": 4.4,
+    "size": "25 MB",
+    "timer": 40
+  },
+  {
+    "id": 5,
+    "name": "Applock Pro",
+    "shortDescription": "Applock Pro is a powerful and user-friendly app that allows you to secure your applications with a password, pattern, or fingerprint lock. With Applock Pro, you can protect your privacy and keep your sensitive information safe from unauthorized access.",
+    "description": "Applock Pro is a powerful and user-friendly app that allows you to secure your applications with a password, pattern, or fingerprint lock. With Applock Pro, you can protect your privacy and keep your sensitive information safe from unauthorized access.",
+    "downloads": 55000,
+    "icon": "https://play-lh.googleusercontent.com/1wih_bvrPxMt-zcy9Ct15gBX6qg6qCsZunmLyxs-H-qHyoAtuxwJYDN5o-HkvmAq7ur-A_X0mAr9V90mKqesW5M=w480-h960-rw",
+    "images": [
+      "https://images.unsplash.com/photo-1504868584819-f8e8b446d2e4?w=400&h=700&fit=crop",
+      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=700&fit=crop"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.etapplocker.app",
+    "category": "Security",
+    "developer": "Applock Pro Inc.",
+    "updatedAt": "2026-06-20",
+    "rating": 4.8,
+    "size": "15 MB",
+    "timer": 40
+  },
+  {
+    "id": 6,
+    "name": "Ethio Verify",
+    "shortDescription": "Ethio Verify is the ultimate security companion for Ethiopian business owners, merchants, and freelancers. Protect your business from payment fraud.",
+    "description": "Ethio Verify is the ultimate security companion for Ethiopian business owners, merchants, and freelancers. Protect your business from payment fraud with our comprehensive verification app. Ethio Verify allows you to quickly and easily verify the authenticity of payment transactions, ensuring that you only accept legitimate payments. With features like real-time transaction monitoring, secure QR code scanning, and a user-friendly interface, Ethio Verify is the essential tool for safeguarding your business against fraudulent activities in Ethiopia's dynamic market.",
+    "downloads": 420000,
+    "icon": "https://play-lh.googleusercontent.com/sgv1auX-WUtI6IbeYHBL3-1VK9h54SfhMfhXC4x5FHcXp75jHefAkqKV8LMCNNkN0iKHm65aj4OrVGLD0dWLvQ=w480-h960-rw",
+    "images": [
+      "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=400&h=700&fit=crop",
+      "https://images.unsplash.com/photo-1550547660-d9450f859349?w=400&h=700&fit=crop"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ethioverify.app",
+    "category": "Security",
+    "developer": "Ethio Verify Inc.",
+    "updatedAt": "2026-06-05",
+    "rating": 4.3,
+    "size": "19 MB",
+    "timer": 40
+  },
+  {
+    "id": 7,
+    "name": "Ethio Exchange Rates",
+    "shortDescription": "Your ultimate tool for real-time currency conversion and daily exchange rates",
+    "description": "Ethio Exchange Rates is the most reliable app for tracking real-time currency conversion and daily exchange rates in Ethiopia. Stay updated with the latest financial information and make informed decisions about your money.",
+    "downloads": 120000,
+    "icon": "https://play-lh.googleusercontent.com/UaEZF3wbGtsoaM9sN4Ii6F53RHb0kTOapOZFkeTnJw42BfmBpZT4m16cE1fodN3CIs-mBWVTxQZIHAzu3hXCS-c=w480-h960-rw",
+    "images": [
+      "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=400&h=700&fit=crop",
+      "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=400&h=700&fit=crop"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ethiominzare.daily",
+    "category": "Finance",
+    "developer": "Ethio Exchange Rates Inc.",
+    "updatedAt": "2026-04-12",
+    "rating": 4.6,
+    "size": "42 MB",
+    "timer": 40
+  },
+  {
+    "id": 8,
+    "name": "Ethio Driving Exam",
+    "shortDescription": "Prepare for your driving test with our comprehensive app.",
+    "description": "Ethio Driving Exam is the ultimate preparation tool for aspiring drivers in Ethiopia. Get access to the latest driving test questions, detailed explanations, and practice tests to ensure you're fully prepared for your exam.",
+    "downloads": 150000,
+    "icon": "https://play-lh.googleusercontent.com/katloAqQfRGdeANTab_koFMKm4KIcWvsXUnyEzOYIXWmhmP09dIpsgcBUv0RYrFscaGyp2ow-DgG7IGZVy01PA=w480-h960-rw",
+    "images": [
+      "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=700&fit=crop",
+      "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?w=400&h=700&fit=crop"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ethiodrivingexam.app",
+    "category": "Communication",
+    "developer": "Tikvah Media Group",
+    "updatedAt": "2026-06-19",
+    "rating": 4.8,
+    "size": "12 MB",
+    "timer": 40
+  },
+  {
+    "id": 9,
+    "name": "Medhanit Health",
+    "shortDescription": "Find open pharmacies, doctors, and medical supplies in real-time.",
+    "description": "Medhanit is a critical healthcare app that allows users to find nearby pharmacies with active stocks, search specialized medical doctors, find clinic schedules, and access verified pharmaceutical guides. It includes emergency contact links and on-duty pharmacy directories across Addis Ababa, Bahir Dar, Hawassa, and Adama.",
+    "downloads": 95000,
+    "icon": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=128&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1530026405186-ed1ea0ac7a63?w=400&h=700&fit=crop",
+      "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?w=400&h=700&fit=crop"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.medhanit.healthcare",
+    "category": "Utilities",
+    "developer": "Medhanit Health Solutions",
+    "updatedAt": "2026-05-18",
+    "rating": 4.5,
+    "size": "16 MB",
+    "timer": 40
+  }
+]
