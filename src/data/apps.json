@@ -172,5 +172,24 @@
     "rating": 4.5,
     "size": "16 MB",
     "timer": 40
+  },
+  {
+    "id": 10,
+    "name": "Kana Movies",
+    "shortDescription": "Kana Movies is your ultimate destination for streaming the latest Ethiopian movies and TV shows. Enjoy a wide selection of films, from classic favorites to new releases, all in one convenient app.",
+    "description": "Kana Movies is your ultimate destination for streaming the latest Ethiopian movies and TV shows. Enjoy a wide selection of films, from classic favorites to new releases, all in one convenient app.",
+    "downloads": 200000,
+    "icon": "https://play-lh.googleusercontent.com/D96518dbSxbRJeawqAmHXn05zfA2ILXhBzXYQCqOzNJv6MjEGYtOJPCYtld4EgEkxXTeGR36Zc0FwH3XWbxv0Q=w480-h960-rw",
+    "images": [
+      "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=400&h=700&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=400&h=700&fit=crop"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kanamovies.app",
+    "category": "Entertainment",
+    "developer": "Tuaf Tech",
+    "updatedAt": "2026-06-01",
+    "rating": 4.7,
+    "size": "22 MB",
+    "timer": 40
   }
 ]
